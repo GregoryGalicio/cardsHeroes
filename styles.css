@@ -55,6 +55,7 @@
     /* border: 2px solid red; */
     margin-left:32px;
 }
+
 .textContainer{
     width: 300px;
     height: 336px;
@@ -68,6 +69,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    /* border:1px solid green; */
+    margin-top: -5px;
 }
 .icon{
     position: absolute;
